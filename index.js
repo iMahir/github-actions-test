@@ -1,2 +1,2 @@
-console.log(process.env.MY_APP_ID)
+console.log(process.env)
 console.log("Workflow ran successfully")
